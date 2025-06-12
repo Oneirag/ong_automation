@@ -75,7 +75,7 @@ with LocalChromeBrowser(
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.11+
 - pywinauto
 - playwright
 - tkinter
@@ -90,6 +90,5 @@ pip install pywinauto playwright pillow pywin32
 
 ## Notes
 
-- The PyWinAuto Assistant requires Windows and administrative privileges
 - Chrome must be installed for the LocalChromeBrowser to work
 - Both tools are designed for Windows environments
